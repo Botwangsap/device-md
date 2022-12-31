@@ -8,7 +8,7 @@ module.exports = {
 		const buttons = [{ buttonId: "#loli", buttonText: { displayText: "Get Again" }, type: 1 }];
 		const buttonMessage = {
 			image: { url: (await rzky.image.loli()).url },
-			caption: "Pedo🫵",
+			caption: "dasar pedo🐸",
 			buttons: buttons,
 			headerType: 4,
 		};
