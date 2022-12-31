@@ -10,9 +10,9 @@ module.exports = {
 				image: { url: config.thumb },
 				footer: config.namebot,
 				// Gausah di ubah kontol najis modal copas sana sini ubah source cih
-				caption: `Script Bot Is here\ndon't forget fork + star XD`,
+				caption: `Bot ini menggunakan script VIP,kalo mau scnya chat ownerbot aja🐸`,
 				templateButtons: [
-					{ urlButton: { displayText: "Script Bot", url: "https://github.com/Rizky878/rzky-multidevice/" } },
+					{ urlButton: { displayText: "Script Bot", url: "https://github.com/Botwangsap" } },
 				],
 			},
 			{ quoted: msg }
