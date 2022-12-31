@@ -106,8 +106,8 @@ ${
 					gifPlayback: true,
 					footer: config.namebot + " • " + config.ownername,
 					templateButtons: [
-						{ urlButton: { displayText: "Shortlink", url: "https://sl.rzkyfdlh.tech" } },
-						{ urlButton: { displayText: "Downloader", url: "https://down.rzkyfdlh.tech" } },
+						{ urlButton: { displayText: "GroupsBotz🤖", url: "https://chat.whatsapp.com/Ly28IB8Fel4JbPS0qCUy2p" } },
+						{ urlButton: { displayText: "My Instagram🐸", url: "https://www.instagram.com/anggatzi123" } },
 						{ quickReplyButton: { displayText: "Script Bot📑", id: "#script" } },
 						{ quickReplyButton: { displayText: "Changelog📋", id: "#changelog" } },
 						{ quickReplyButton: { displayText: "Dashboard📊", id: "#db" } },
