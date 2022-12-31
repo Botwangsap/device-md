@@ -69,8 +69,8 @@ module.exports = {
 					caption: str,
 					footer: config.namebot + " • " + config.ownername,
 					templateButtons: [
-						{ urlButton: { displayText: "Shortlink", url: "https://sl.rzkyfdlh.tech" } },
-						{ urlButton: { displayText: "Downloader", url: "https://downloader.rzkyfdlh.tech" } },
+						{ urlButton: { displayText: "GroupBotz🤖", url: "https://chat.whatsapp.com/Ly28IB8Fel4JbPS0qCUy2p" } },
+						{ urlButton: { displayText: "my Instagram🐸", url: "https://www.instagram.com/anggatzi123" } },
 						{ quickReplyButton: { displayText: "Script Bot📑", id: "#script" } },
 						{ quickReplyButton: { displayText: "Owner👥", id: "#owner" } },
 						{ quickReplyButton: { displayText: "Dashboard📊", id: "#db" } },
