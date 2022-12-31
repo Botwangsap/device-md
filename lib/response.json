@@ -1,13 +1,13 @@
 {
-	"wait": "_Wait a minute, data is being processed!_",
-	"error": {
-		"Iv": "The link you provided is not valid",
-		"api": "Sorry an error occurred"
+	"wait": "_sabar bang lagi di proses🐸!_",
+	"error🥲": {
+		"Iv": "link yang kamu berikan tidak valid🥲",
+		"api": "maaf fitur lagi eror😅"
 	},
-	"OnlyGrup": "This command can only be used in groups",
-	"OnlyPM": "This command can only be used in private messages",
-	"GrupAdmin": "This command can only be used by Group Admin",
-	"BotAdmin": "Bot Must be admin",
-	"OnlyOwner": "This command can only be used by the bot owner",
-	"OnlyPrem": "This command is only for premium members"
+	"OnlyGrup": "fitur ini khusus groups🐸",
+	"OnlyPM": "fitur ini khusus private😇",
+	"GrupAdmin": "fitur ini khusus admin ganteng/cantik🐸🥰",
+	"BotAdmin": "Bot harus jadi admin kak🐸😇",
+	"OnlyOwner": "gk boleh😈,fitur ini khusus buat owner kesayanganku🥰😚",
+	"OnlyPrem": "kalo mau pake fitur ini kalian harus jadi premium dulu🐸"
 }
