@@ -7,7 +7,8 @@ module.exports = {
 	isGroup: true,
 	isBotAdmin: true,
 	isAdmin: false,
-        isOwner: true,
+        isOwner: false,
+        isPremium: true,
 	isSpam: true,
 	async run({ msg, conn }, { q, prefix }) {
 		add = q ? q : msg.quoted ? msg.quoted : false;
