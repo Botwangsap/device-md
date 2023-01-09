@@ -6,7 +6,8 @@ module.exports = {
 	wait: true,
 	isGroup: true,
 	isBotAdmin: true,
-	isAdmin: true,
+	isAdmin: false,
+        isOwner: true,
 	isSpam: true,
 	async run({ msg, conn }, { q, prefix }) {
 		let participant = msg.mentions[0]
