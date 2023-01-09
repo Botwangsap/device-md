@@ -5,7 +5,8 @@ module.exports = {
 	category: "group",
 	query: "enter options\n1 = aktif\n0 = nonaktif",
 	isGroup: true,
-	isAdmin: true,
+	isAdmin: false,
+        isPremium: true,
 	isSpam: true,
 	async run({ msg, conn }, { args, prefix }) {
 		let data = JSON.parse(require("fs").readFileSync("./database/antilink.json"));
