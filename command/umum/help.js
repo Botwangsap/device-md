@@ -101,9 +101,10 @@ ${
 			await conn.sendMessage(
 				msg.from,
 				{
-					video: { url: config.thumb },
+					image: { url: config.thumb },
 					caption: str,
 					gifPlayback: true,
+                                        viewOnce: true,
 					footer: config.namebot + " • " + config.ownername,
 					templateButtons: [
 						{ urlButton: { displayText: "GroupsBotz🤖", url: "https://chat.whatsapp.com/Ly28IB8Fel4JbPS0qCUy2p" } },
